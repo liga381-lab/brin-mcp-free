@@ -1,5 +1,5 @@
 {
-  "name": "brin-mcp",
+  "name": "brin-mcp-free",
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
@@ -10,6 +10,6 @@
     "axios": "^1.7.4",
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "pg": "^8.12.0"
+    "better-sqlite3": "^9.6.0"
   }
 }
